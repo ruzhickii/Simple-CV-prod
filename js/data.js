@@ -33,7 +33,7 @@ const data = {
         "Webpack",
         "React JS",
         "Next JS",
-        "Metro Redux",
+        "Redux",
         "RESTful API",
         "Animate.css"
     ],
