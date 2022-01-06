@@ -10,7 +10,7 @@ document.querySelector('.contacts-block').innerHTML += `<li><a href="mailto: ${d
 document.querySelector('.contacts-block').innerHTML += `<li><a href="callto: ${data.skype}">Skype</a></li>`;
 document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.linkedin}">Link to linkedin</a></li>`;
 document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.github}">Link to github</a></li>`;
-document.querySelector('.address').innerHTML += `<p>${data.address}`;
+document.querySelector('.address').innerHTML += `<p class="text-center">${data.address}`;
 document.querySelector('#my-photo').src = data.photo;
 
 
