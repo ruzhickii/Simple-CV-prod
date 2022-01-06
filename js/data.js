@@ -3,7 +3,7 @@ const data = {
     "last_name": "Ruzhickii",
     "job_title": "FrontEnd Developer",
     "photo": "images/w1.jpg",
-    "phone": "+3 80631689372",
+    "phone": "+380631689372",
     "email": "ruzhickiisasha@gmail.com",
     "skype": "ruzhickii",
     "linkedin": "https://www.linkedin.com/in/alexander-ruzhickii-4a6004116/",
